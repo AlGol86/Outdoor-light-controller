@@ -1,0 +1,9 @@
+Debug/
+Release/
+clock.*
+*.dep
+*.pdb
+*.stp
+*.stw
+*.wdb
+*.wed
