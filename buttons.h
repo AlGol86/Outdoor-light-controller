@@ -1,4 +1,4 @@
-#include "stm8s.h"
+ #include "stm8s.h"
 
 #define PORT_BUTTON_OK      GPIOD
 
